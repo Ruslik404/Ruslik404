@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 ---
 
 ## 💻 О себе
-🔹 Пишу чистый и производительный код на C++ и C#
-🔹 Создаю кроссплатформенные UI на Avalonia UI
-🔹 Верстаю и оживляю веб на HTML / CSS / JS
-🔹 I use Arch, btw✨
+- 🧿 I use Arch, btw
+- 📜 I use Arch, btw
+- 🦄 I use Arch, btw
+- ⚡ I use Arch, btw
+- 🐧 *I use Arch, btw*
