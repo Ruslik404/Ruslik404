@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+> 🎮 *C++ | C# | .NET | Desktop & Web*  
+> 🐧 *Arch Linux • Hyprland • Tiling WM Enthusiast*
+
+---
+
+## 💻 О себе
+🔹 Пишу чистый и производительный код на C++ и C#
+🔹 Создаю кроссплатформенные UI на Avalonia UI
+🔹 Верстаю и оживляю веб на HTML / CSS / JS
+🔹 I use Arch, btw✨
