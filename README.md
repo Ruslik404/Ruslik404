@@ -1,15 +1,20 @@
 ## Hi there 👋
-
-
-> 🎮 *C++ | C# | .NET | Desktop & Web*  
-> 🐧 *Arch Linux • Hyprland • Tiling WM Enthusiast*
+> 🖥️ **C++ | C# | .NET | Desktop & Web Developer**  
+> 🐧 *Arch Linux • Hyprland • Tiling Window Managers*
 
 ---
 
-## 💻 О себе
-- 🧿 I use Arch, btw
-- 📜 I use Arch, btw
-- 🦄 I use Arch, btw
-- ⚡ I use Arch, btw
-- 🐧 *I use Arch, btw*
+## 🛠️ Технологический стек (Tech Stack)
 
+### 🖥️ Разработка
+![C++](https://shields.io)
+![C#](https://shields.io)
+![.NET](https://shields.io)
+
+### 🐧 Окружение
+![Arch Linux](https://shields.io)
+![Hyprland](https://shields.io)
+
+---
+
+*🧿 I use Arch, btw.*
